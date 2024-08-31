@@ -1,2 +1,2 @@
 # petunindan.github.io
-Petunindan's works archive
+Archive of petunindan's works
